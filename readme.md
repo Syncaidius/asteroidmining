@@ -20,10 +20,10 @@ Basic Rules/Tips/Hints
 
 Console Commands
 ----------------
-**AM_asteroidlimit** - Sets the maximum number of asteroids allowed on the map. Be warned, high numbers of asteroids may cause lag and even crash the server after a while.
-**AM_respawn_time** - Sets the number of seconds between asteroid respawn-check cycles
-**AM_respawn_count** - The maximum number of asteroids allowed to respawn per cycle (this is not always reached however)
-**AM_respawn_maxlife** - Sets the number of minutes an asteroid can be left untouched for, before deleting itself and freeing up an asteroid spawn slot
+ - **AM_asteroidlimit** - Sets the maximum number of asteroids allowed on the map. Be warned, high numbers of asteroids may cause lag and even crash the server after a while.
+ - **AM_respawn_time** - Sets the number of seconds between asteroid respawn-check cycles
+ - **AM_respawn_count** - The maximum number of asteroids allowed to respawn per cycle (this is not always reached however)
+ - **AM_respawn_maxlife** - Sets the number of minutes an asteroid can be left untouched for, before deleting itself and freeing up an asteroid spawn slot
 
 Credits/Thankies
 ----------------
