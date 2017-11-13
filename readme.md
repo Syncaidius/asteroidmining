@@ -28,4 +28,3 @@ Console Commands
 Credits/Thankies
 ----------------
 Blaster-12 - bug/error hunter
-Anyone else who I forgot!
