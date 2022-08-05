@@ -27,4 +27,4 @@ Console Commands
 
 Credits/Thankies
 ----------------
-[https://github.com/Zeracronius](Blaster-12 - bug/error hunter)
+[Blaster-12 - bug/error hunter](https://github.com/Zeracronius)
